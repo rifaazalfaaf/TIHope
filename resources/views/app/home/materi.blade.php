@@ -14,7 +14,7 @@
 		</div>
 
 		<div class="row mb-5">
-			<div class="col-md-4 pl-0" id="tabel">
+			<div class="col-md-4" id="tabel">
 		        <a href="#">
 		          <div class="type-containter type-ppt"><h5 class="mt-1">ppt</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
@@ -22,7 +22,7 @@
 		          </div>
 		        </a>
 			</div>
-			<div class="col-md-4 pl-0" id="tabel">
+			<div class="col-md-4" id="tabel">
 		        <a href="#">
 		          <div class="type-containter type-pdf"><h5 class="mt-1">pdf</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
@@ -30,7 +30,7 @@
 		          </div>
 		        </a>
 			</div>	
-			<div class="col-md-4 pl-0" id="tabel">
+			<div class="col-md-4" id="tabel">
 		        <a href="#">
 		          <div class="type-containter type-ppt"><h5 class="mt-1">ppt</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
@@ -38,7 +38,7 @@
 		          </div>
 		        </a>
 			</div>
-			<div class="col-md-4 pl-0" id="tabel">
+			<div class="col-md-4" id="tabel">
 		        <a href="#">
 		          <div class="type-containter type-pdf"><h5 class="mt-1">pdf</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
@@ -46,7 +46,7 @@
 		          </div>
 		        </a>
 			</div>	
-			<div class="col-md-4 pl-0" id="tabel">
+			<div class="col-md-4" id="tabel">
 		        <a href="#">
 		          <div class="type-containter type-ppt"><h5 class="mt-1">ppt</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
@@ -54,7 +54,7 @@
 		          </div>
 		        </a>
 			</div>
-			<div class="col-md-4 pl-0" id="tabel">
+			<div class="col-md-4" id="tabel">
 		        <a href="#">
 		          <div class="type-containter type-pdf"><h5 class="mt-1">pdf</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
@@ -62,7 +62,7 @@
 		          </div>
 		        </a>
 			</div>	
-			<div class="col-md-4 pl-0" id="tabel">
+			<div class="col-md-4" id="tabel">
 		        <a href="#">
 		          <div class="type-containter type-ppt"><h5 class="mt-1">ppt</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
@@ -70,14 +70,15 @@
 		          </div>
 		        </a>
 			</div>
-			<div class="col-md-4 pl-0" id="tabel">
+			<div class="col-md-4" id="tabel">
 		        <a href="#">
 		          <div class="type-containter type-pdf"><h5 class="mt-1">pdf</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
 		              Materi 8
 		          </div>
 		        </a>
-			</div>	<div class="col-md-4 pl-0" id="tabel">
+			</div>	
+			<div class="col-md-4" id="tabel">
 		        <a href="#">
 		          <div class="type-containter type-ppt"><h5 class="mt-1">ppt</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
