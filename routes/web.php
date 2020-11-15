@@ -18,5 +18,6 @@ Route::get('/', function () {
 });
 
 Route::get('/home','HomeController@index');
+Route::get('/home/materi','HomeController@materi');
 Route::get('/about','AboutController@index');
 
