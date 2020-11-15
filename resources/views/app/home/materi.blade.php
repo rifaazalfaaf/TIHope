@@ -15,7 +15,7 @@
 
 		<div class="row mb-5">
 			<div class="col-md-4" id="tabel">
-		        <a href="#">
+		        <a href="{{url('/home/materi/download')}}">
 		          <div class="type-containter type-ppt"><h5 class="mt-1">ppt</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
 		              Materi 1

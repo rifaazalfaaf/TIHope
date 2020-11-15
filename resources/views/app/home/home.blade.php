@@ -17,7 +17,7 @@
 		 		<img src="{{asset('img/Questions.gif')}}" alt="">
 		 	</div>
 		</div>
-		 <div class="row">
+		<div class="row">
 		 	<div class="col-md-4 images">
 		 		<img src="{{asset('img/Notes.gif')}}" alt="">
 		 	</div>
@@ -35,7 +35,7 @@
 		        </div>
 		        <div id="collapseOne" class="collapse show" data-parent="#accordion">
 		          <div class="card-body">
-		            <a href="#">Logika informatika</a>
+		            <a href="{{url('/home/materi')}}">Logika informatika</a>
 		          </div>
 		          <div class="card-body">
 		            <a href="#">Pengantar Teknologi Komputer dan Informatika</a>
