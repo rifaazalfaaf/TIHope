@@ -6,7 +6,7 @@
 }
 
 .font2{
-	font-family: roboto;
+	font-family: Roboto;
 }
 
 
@@ -118,4 +118,60 @@
 
 #tabel > a:hover{
   text-decoration: none !important;
+}
+
+/*Download*/
+.nama_materi{
+	font-size: 50px;
+}
+.nama_matkul{
+	font-size: 22px;
+}
+.download-button{
+  width: 233px;
+  height: 42px;
+  border: 1px solid;
+  padding : 15px 100px 15px 100px;
+  text-decoration: none !important;
+  border-radius:5px;
+  background-color : #EECB2D;
+  color: #fff;
+}
+
+.download-button:hover{
+  background:white !important;
+  color:  #1053ae!important;
+  transition-delay: 0.2s;
+  text-decoration: none !important;
+  border-radius:5px;
+  color: #fff;
+}
+.body-download{
+  margin-bottom: 23%;
+}
+.File{
+  /*overflow:hidden;*/
+  background: #F5F5F5;
+  box-shadow:0 0 1px 1px rgba(20,23,28,.1), 0 3px 1px 0 rgba(20,23,28,.1);
+  transition: 0.3s;
+  text-decoration: none;
+}
+.File:hover{
+  box-shadow:0 0 1px 1px rgba(20,23,28,.1), 0 3px 11px 3px rgba(20,23,28,.1);
+  text-decoration: none;
+}
+.circle{
+  width: 100px;
+  height: 90px;
+  border-radius: 50%;
+  overflow:hidden;
+  background: linear-gradient(to right, #e62420,  #a80d0d);
+  color: white;
+  text-decoration: none;
+}
+.materi{
+	color:#362F29;
+}
+.coba{
+	text-decoration: none;
 }

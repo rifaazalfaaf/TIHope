@@ -18,4 +18,9 @@ class HomeController extends Controller
     {
     	return view('app/home/materi');	
     }
+
+    public function download()
+    {
+    	return view('app/home/download');	
+    }
 }
