@@ -7,7 +7,7 @@
 
 @section('content')
 	<div class="container">
-		<div class="col-md-6 pl-0 mb-5">
+		<div class="col-md-2 pl-0 mb-5">
 			<h1 class="judul font1">Profil</h1>
 			<hr style="border: 1px solid #EECB2D">	
 		</div>
