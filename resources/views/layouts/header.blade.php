@@ -25,8 +25,12 @@
                 </div>
         </div>
     </form>
-    <div class="nav-link pl-1 col-md-1" href="{{url('/login')}}">
-      <button type="button btn-login" class="btn font2  btn-md" style="background-color: #EECB2D; color:#FFFFFF">Masuk</button>
+    <div class="dropdown nav-link pl-1 col-md-1" href="{{url('/login')}}">
+      <button type="button btn-login" class="btn font2 btn-md dropdown-toggle" data-toggle="dropdown" style="background-color: #EECB2D; color:#FFFFFF">Hi! Rifa</button>
+      <div class="dropdown-menu">
+        <a class="dropdown-item" href="{{url('/profil')}}">Profil</a>
+        <a class="dropdown-item" href="#">Logout</a>
+      </div>
     </div>
   </nav>
 {{-- </div> --}}
