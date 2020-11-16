@@ -172,6 +172,10 @@
 .materi{
 	color:#362F29;
 }
-.coba{
-	text-decoration: none;
+
+/*Profil*/
+.labelForm{
+  letter-spacing: 5px;
+  color : #EECB2D;
+  font-size: 20px;
 }
