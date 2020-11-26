@@ -4735,16 +4735,16 @@
         },
         {
             "name": "fakerphp/faker",
-            "version": "v1.11.0",
+            "version": "v1.12.0",
             "source": {
                 "type": "git",
                 "url": "https://github.com/FakerPHP/Faker.git",
-                "reference": "f228dc5112bafc14c77d40a2acc0c48058e184b0"
+                "reference": "9aa6c9e289860951e6b4d010c7a841802d015cd8"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/FakerPHP/Faker/zipball/f228dc5112bafc14c77d40a2acc0c48058e184b0",
-                "reference": "f228dc5112bafc14c77d40a2acc0c48058e184b0",
+                "url": "https://api.github.com/repos/FakerPHP/Faker/zipball/9aa6c9e289860951e6b4d010c7a841802d015cd8",
+                "reference": "9aa6c9e289860951e6b4d010c7a841802d015cd8",
                 "shasum": ""
             },
             "require": {
@@ -4779,7 +4779,7 @@
                 "faker",
                 "fixtures"
             ],
-            "time": "2020-11-15T20:27:00+00:00"
+            "time": "2020-11-23T09:33:08+00:00"
         },
         {
             "name": "filp/whoops",
@@ -5751,16 +5751,16 @@
         },
         {
             "name": "scrivo/highlight.php",
-            "version": "v9.18.1.4",
+            "version": "v9.18.1.5",
             "source": {
                 "type": "git",
                 "url": "https://github.com/scrivo/highlight.php.git",
-                "reference": "ee8007a215a27cb9c078e0328fb5de901d74ef9b"
+                "reference": "fa75a865928a4a5d49e5e77faca6bd2f2410baaf"
             },
             "dist": {
                 "type": "zip",
-                "url": "https://api.github.com/repos/scrivo/highlight.php/zipball/ee8007a215a27cb9c078e0328fb5de901d74ef9b",
-                "reference": "ee8007a215a27cb9c078e0328fb5de901d74ef9b",
+                "url": "https://api.github.com/repos/scrivo/highlight.php/zipball/fa75a865928a4a5d49e5e77faca6bd2f2410baaf",
+                "reference": "fa75a865928a4a5d49e5e77faca6bd2f2410baaf",
                 "shasum": ""
             },
             "require": {
@@ -5822,7 +5822,7 @@
                     "type": "github"
                 }
             ],
-            "time": "2020-11-01T04:06:53+00:00"
+            "time": "2020-11-22T06:07:40+00:00"
         },
         {
             "name": "sebastian/code-unit-reverse-lookup",

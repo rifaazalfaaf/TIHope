@@ -23,3 +23,4 @@ Route::get('/home/materi/download','HomeController@download');
 Route::get('/about','AboutController@index');
 Route::get('/contact','ContactUsController@index');
 Route::get('/profil','ProfilController@index');
+Route::get('/login', 'LoginController@index');
