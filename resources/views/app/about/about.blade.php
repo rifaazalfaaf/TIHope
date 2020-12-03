@@ -14,12 +14,12 @@
 				<hr style="border: 1px solid #EECB2D">
 			</div>
 			<div class="col-md-9" align="right">
-		 		<img src="{{asset('img/About us page-amico.png')}}" alt="Image" height="406" width="423">
+		 		<img class="image_about" src="{{asset('img/About us page-amico.png')}}" alt="Image" height="406" width="423">
 		 	</div>
 		</div>
 		<div class="card">
 			<div class="ml-4 mt-4">
-			<div class="ContacInfo">
+			<div class="ContacInfo mb-4">
 				<a class="nama">Junia Adhani Juzar </a>
 		        <p class="npm">140810170015</p>
 		        	<div class="row" style="margin-left: 8px" >
@@ -36,11 +36,8 @@
 		        	
   						<p class="d-flex align-content-around flex-wrap">juniaadhani</p>
 		        	</div>
-
-					
 			</div>
-			<br>
-		    <div class="ContacInfo">
+		    <div class="ContacInfo mb-4">
 				<a class="nama">Rifaa' Zalfaa' Fakhriyyah </a>
 		        <p class="npm">140810170031</p>
 		        	<div class="row" style="margin-left: 8px" >
@@ -57,11 +54,8 @@
 		        	
   						<p class="d-flex align-content-around flex-wrap">rifaazalfaaf</p>
 		        	</div>
-
-					
 			</div>
-			<br>
-			<div class="ContacInfo">
+			<div class="ContacInfo mb-4">
 				<a class="nama">Muhammad Fadhiillah </a>
 		        <p class="npm">140810170049</p>
 		        	<div class="row" style="margin-left: 8px" >
@@ -79,9 +73,6 @@
   						<p class="d-flex align-content-around flex-wrap">mfadiilah</p>
 		        	</div>	
 			</div>
-		    </br>
-			</div>
-			</div>	
 		</div>
 		</div>
 
