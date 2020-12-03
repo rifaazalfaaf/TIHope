@@ -179,3 +179,66 @@
   color : #EECB2D;
   font-size: 20px;
 }
+
+/*About*/
+
+.card{
+  background-color :  #F5F5F5;
+
+}
+
+.card .ContacInfo .nama {
+
+width: 510px;
+height: 32.71px;
+left: 140px;
+top: 527.18px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 30px;
+line-height: 35px;
+display: flex;
+align-items: center;
+letter-spacing: 0.2em;
+  color : #EECB2D;
+
+}
+
+.card .ContacInfo .npm{
+
+width: 872.97px;
+height: 50.46px;
+left: 140px;
+top: 577.64px;
+
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: 0.2em;
+
+color: #000000;
+}
+
+.card .ContacInfo .row .p{
+width: 872.97px;
+height: 50.46px;
+left: 246px;
+top: 690.71px;
+
+font-family: Roboto;
+font-style: normal;
+font-weight: normal;
+font-size: 26px;
+line-height: 30px;
+display: flex;
+align-items: center;
+letter-spacing: 0.2em;
+
+color: #000000;
