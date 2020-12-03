@@ -20,7 +20,7 @@
 		 		<h2 class="font2 d-flex justify-content-center sub_judul2">MATERI LAIN</h2>
 		 	</div>
 		 	<div class="col-md-4 images">
-		 		<img src="{{asset('img/Notes-amico.png')}}" alt="">
+		 		<img class="img_download" src="{{asset('img/Notes-amico.png')}}" alt="">
 		 	</div>
 		</div>
 
