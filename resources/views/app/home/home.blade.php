@@ -14,19 +14,19 @@
 		 		
 		 	</div>
 		 	<div class="col-md-6">
-		 		<img src="{{asset('img/Questions.gif')}}" alt="">
+		 		<img class="img_home1" src="{{asset('img/Questions.gif')}}" alt="">
 		 	</div>
 		</div>
 		<div class="row">
-		 	<div class="col-md-4 images">
-		 		<img src="{{asset('img/Notes.gif')}}" alt="">
+		 	<div class="col-md-4 col-sm-6 images">
+		 		<img class="img_home2" src="{{asset('img/Notes.gif')}}" alt="">
 		 	</div>
-		 	<div class="col-md-8">
+		 	<div class="col-md-8 col-sm-6">
 		 		<h2 class="font2 d-flex justify-content-center sub_judul2">MASA PERKULIAHAN</h2>
 		 	</div>
 		</div>
 		<div id="accordion" class="row">
-		    <div class="col-md-6 font2" align="center">
+		    <div class="col-md-6  mt-3 font2" align="center">
 		      <div class="card">
 		        <div class="card-header">
 		          <a class="card-link" data-toggle="collapse" href="#collapseOne">
@@ -49,7 +49,7 @@
 		        </div>
 		      </div>
 		    </div>
-		    <div class="col-md-6 font2" align="center">
+		    <div class="col-md-6  mt-3 font2" align="center">
 		      <div class="card">
 		        <div class="card-header">
 		          <a class="collapsed card-link" data-toggle="collapse" href="#collapseTwo">
