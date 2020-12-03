@@ -13,13 +13,13 @@ color: #eecb2d;
 
 @section('content')
 	<div class="container">
-		 <div class="row">
+		<div class="row my-5">
 		 	<div class="col-md-7">
-		 		<img src="{{asset('img/Programming.png')}}" alt="" style ="width :584px" style ="height:350px" style ="left:22px" style="top:110px">
+		 		<img class="img_login" src="{{asset('img/Programming.png')}}" alt=""  style ="width :584px; height:400px; left:22px; top:110px">
 		 	</div>
 		 	<div class="col-md-5">
-		 		<h1 class="d-flex justify-content-center font2 mt-5" style="color : #eecb2d" style="=text-align: center" style="font-size: 47px" style="border-radius: 10px" style="text-align: ">Login</h1>
-		 	<form method="POST" action="/result">
+		 		<h1 class="d-flex justify-content-center font2 mt-5" style="color : #eecb2d;text-align: center; font-size: 47px;border-radius: 10px; text-align: ">Login</h1>
+		 		<form method="POST" action="/result">
 					<div class="form-group mt-5">
 			  			<label class="font1 labelForm" for="user"></label>
 			  			<input type="text" class="form-control" id="user" placeholder="Masukkan Username" name="username">
@@ -28,15 +28,11 @@ color: #eecb2d;
 			  			<label class="font1 labelForm" for="npm"></label>
 			  			<input type="text" class="form-control" id="npm" placeholder="Masukkan Kata Sandi" name="sandi">
 					</div>
-					 <button type="submit" class="btn btn-primary btn-block btn-large border border-light mt-5 md-6" style="background-color: #EECB2D; color:#FFFFFF">Masuk</button>
-					 <a href="#" style="color: #EECB2D;" style="text-align: center;">Forgot Password?</a>
-            	
-			</form>
+					<button type="submit" class="btn btn-primary btn-block btn-large border border-light mt-5 mb-4" style="background-color: #EECB2D; color:#FFFFFF">Masuk</button>
+					<div class="mb-4" align="center"><a  href="#" style="color: #EECB2D;" align="center">Forgot Password?</a></div>
+				</form>
 		 	</div>
 		</div>
-		
-		</div>
-
 	</div>
 
 @endsection
