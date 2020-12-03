@@ -17,12 +17,12 @@
 				<p class="sub-judul">apabila teman-teman memiliki materi terbaru silahkan hubungi kontak dibawah ini sesuai dengan angkatan masing-masing.</p>
 			</div>
 			<div class="col-md-6">
-		 		<img src="{{asset('img/Conversation-rafiki.png')}}" alt="Image" height="406" width="423" align="right">
+		 		<img class="image_contact" src="{{asset('img/Conversation-rafiki.png')}}" alt="Image" height="406" width="423" align="right">
 		 	</div>
 		</div>
 		<div class="card">
 			<div class="ml-4 mt-4">
-			<div class="ContacInfo">
+			<div class="ContacInfo mb-4">
 				<a class="nama">Koordinator Angkatan 2017 </a>
 		        <p class="npm">Muhammad Fakhri Rahman</p>
 		        	<div class="row" style="margin-left: 8px" >
@@ -39,11 +39,9 @@
 		        	
   						<p class="d-flex align-content-around flex-wrap">fakhrixx</p>
 		        	</div>
-
-					
 			</div>
-			<br>
-		    <div class="ContacInfo">
+			
+		    <div class="ContacInfo mb-4">
 				<a class="nama">Koordinator Angkatan 2018 </a>
 		        <p class="npm">Muhammad Fakhri Rahman</p>
 		        	<div class="row" style="margin-left: 8px" >
@@ -60,14 +58,7 @@
 		        	
   						<p class="d-flex align-content-around flex-wrap">fakhrixx</p>
 		        	</div>
-
-					
 			</div>
-			<br>
-			
-		    </br>
-			</div>
-			</div>	
 		</div>
 		</div>
 
