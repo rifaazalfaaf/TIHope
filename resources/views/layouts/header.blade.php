@@ -15,7 +15,7 @@
         <a class="nav-link contact_us font2" href="{{url('/contact')}}">Contact Us</a>
       </li>
     </ul>
-    <form class="form-inline col-md-3" action="/action_page.php">
+    <form class="form-inline col-md-3 formTihope" action="/action_page.php">
       <div class="input-group mb-3 mt-3 p-0 rounded">
             <input type="text" class="form-control search_box font2" id="myInput" style="color: #6b8a3c" placeholder="Search">
                 <div class="input-group-append" id="myDIV">
