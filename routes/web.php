@@ -13,11 +13,11 @@ use Illuminate\Support\Facades\Route;
 |
 */
 
-Route::get('/', function () {
-    return view('welcome');
-});
+// Route::get('/', function () {
+//     return view('welcome');
+// });
 
-Route::get('/home','HomeController@index');
+Route::get('/','HomeController@index');
 Route::get('/home/materi','HomeController@materi');
 Route::get('/upload_materi','HomeController@upload_materi');
 Route::get('/home/materi/download','HomeController@download');

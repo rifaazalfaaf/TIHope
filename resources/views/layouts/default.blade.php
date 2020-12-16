@@ -15,7 +15,7 @@
 
 
     @yield('page-css')
-    <link rel="stylesheet" href="/css/app.css">
+    <link rel="stylesheet" href="{{asset('public/css/app.css')}}">
 
     @yield('styles')
 
