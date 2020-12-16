@@ -14,12 +14,12 @@
 		 		
 		 	</div>
 		 	<div class="col-md-6">
-		 		<img class="img_home1" src="{{asset('img/Questions.gif')}}" alt="">
+		 		<img class="img_home1" src="{{asset('public/img/Questions.gif')}}" alt="">
 		 	</div>
 		</div>
 		<div class="row">
 		 	<div class="col-md-4 col-sm-6 images">
-		 		<img class="img_home2" src="{{asset('img/Notes.gif')}}" alt="">
+		 		<img class="img_home2" src="{{asset('public/img/Notes.gif')}}" alt="">
 		 	</div>
 		 	<div class="col-md-8 col-sm-6">
 		 		<h2 class="font2 d-flex justify-content-center sub_judul2">MASA PERKULIAHAN</h2>
