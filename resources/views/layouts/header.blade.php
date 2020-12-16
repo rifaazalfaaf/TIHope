@@ -29,6 +29,7 @@
       <button type="button btn-login" class="btn font2 btn-md dropdown-toggle" data-toggle="dropdown" style="background-color: #EECB2D; color:#FFFFFF">Hi! Rifa</button>
       <div class="dropdown-menu">
         <a class="dropdown-item" href="{{url('/profil')}}">Profil</a>
+        <a class="dropdown-item" href="{{url('/upload_materi')}}">Tambah Materi</a>
         <a class="dropdown-item" href="#">Logout</a>
       </div>
     </div>

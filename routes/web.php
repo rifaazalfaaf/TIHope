@@ -19,6 +19,7 @@ Route::get('/', function () {
 
 Route::get('/home','HomeController@index');
 Route::get('/home/materi','HomeController@materi');
+Route::get('/upload_materi','HomeController@upload_materi');
 Route::get('/home/materi/download','HomeController@download');
 Route::get('/about','AboutController@index');
 Route::get('/contact','ContactUsController@index');
