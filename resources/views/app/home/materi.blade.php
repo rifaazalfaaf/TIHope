@@ -12,16 +12,17 @@
 			<hr style="border: 1px solid #EECB2D">	
 			<h4 class="font2 mb-5">Dosen : Ino Suryana</h4>
 		</div>
-
+		@foreach($data as $ item)
 		<div class="row mb-5">
 			<div class="col-md-4" id="tabel">
 		        <a href="{{url('/home/materi/download')}}">
 		          <div class="type-containter type-ppt"><h5 class="mt-1">ppt</h5></div>
 		          <div style="margin-top: 5px; text-indent: 20px;">
-		              Materi 1
+		              {{$item['judul_materi']}}
 		          </div>
 		        </a>
 			</div>
+			@endforeach
 			<div class="col-md-4" id="tabel">
 		        <a href="#">
 		          <div class="type-containter type-pdf"><h5 class="mt-1">pdf</h5></div>

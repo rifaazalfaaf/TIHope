@@ -23,4 +23,10 @@ class HomeController extends Controller
     {
     	return view('app/home/download');	
     }
+    function list()
+    { 
+        $data= Http::get('http://127.0.0.1:8000/api/materi')->json();
+    
+        return view('materis',['data' => $data ]);
+    }
 }
